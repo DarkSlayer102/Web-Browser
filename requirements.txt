@@ -1,0 +1,3 @@
+pywhatkit
+webbrowser
+termcolor
